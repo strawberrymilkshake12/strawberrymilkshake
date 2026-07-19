@@ -9,6 +9,11 @@
   <img src="https://img.shields.io/badge/STATUS-BEYOND_DEATH-9B59B6?style=for-the-badge&logo=ghost&logoColor=9B59B6&color=0d0d0d" />
 </p>
 
+<p align="center"> <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=9B59B6" /> <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=9B59B6" /> <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=9B59B6" /> <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=9B59B6" /> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=9B59B6" /> <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=9B59B6" /> <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=9B59B6" /> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=9B59B6" /> </p>
+
+
+<p align="center"> <a href="https://github.com/strawberrymilkshake12/nama-repo-1"> <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=strawberrymilkshake12&repo=nama-repo-1&theme=dark&bg_color=0d0d0d&border_color=9B59B6&title_color=9B59B6&icon_color=9B59B6&text_color=ffffff" /> </a> <a href="https://github.com/strawberrymilkshake12/nama-repo-2"> <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=strawberrymilkshake12&repo=nama-repo-2&theme=dark&bg_color=0d0d0d&border_color=9B59B6&title_color=9B59B6&icon_color=9B59B6&text_color=ffffff" /> </a> </p>
+
 ---
 
 ## 🎭 **Whoami**
@@ -21,8 +26,3 @@ quote:
   - "Everything is according to my plan."
   - "I am not interested in the weak."
   - "Since when were you under the impression that I wasn't using my abilities?"
-
-<p align="center"> <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=9B59B6" /> <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=9B59B6" /> <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=9B59B6" /> <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=9B59B6" /> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=9B59B6" /> <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=9B59B6" /> <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=9B59B6" /> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=9B59B6" /> </p>
-
-
-<p align="center"> <a href="https://github.com/strawberrymilkshake12/nama-repo-1"> <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=strawberrymilkshake12&repo=nama-repo-1&theme=dark&bg_color=0d0d0d&border_color=9B59B6&title_color=9B59B6&icon_color=9B59B6&text_color=ffffff" /> </a> <a href="https://github.com/strawberrymilkshake12/nama-repo-2"> <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=strawberrymilkshake12&repo=nama-repo-2&theme=dark&bg_color=0d0d0d&border_color=9B59B6&title_color=9B59B6&icon_color=9B59B6&text_color=ffffff" /> </a> </p>
