@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=9B59B6" /> <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=9B59B6" /> <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=9B59B6" /> <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=9B59B6" /> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=9B59B6" /> <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=9B59B6" /> <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=9B59B6" /> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=9B59B6" /> </p>
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=9B59B6&center=true&width=700&lines=%3E+Welcome+to+my+world...;%3E+User:+strawberrymilkshake12;%3E+Status:+Fully+Awakened;%3E+Everything+is+according+to+plan.;%3E+Kyoka+Suigetsu+Activated;%3E+Welcome+to+my+Realm." />
 </h1>
@@ -15,26 +16,10 @@
 
 ```yaml
 user: strawberrymilkshake12
-alias: The Aizen of Code
-status: 🖥️ Beyond Death
 arc: Fullstack Development
 
-quote: 
   - "The world stands on a foundation of lies."
   - "Everything is according to my plan."
   - "I am not interested in the weak."
   - "Since when were you under the impression that I wasn't using my abilities?"
 
-philosophy:
-  - "Code is my Kyoka Suigetsu"
-  - "I manipulate the stack"
-  - "Perfection is boring"
-  - "NEXT is my Hogyoku"
-
-personality:
-  - Calm & Collected
-  - Calculating & Strategic
-  - Mysterious & Intimidating
-  - Always 10 steps ahead
-  - Likes to play with bugs
-  - Never shows full power
