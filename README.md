@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&width=600&lines=%3E+strawberrymilkshake12;%3E+Fullstack+Developer;%3E+Architect+of+Systems;%3E+Master+of+Kyoka+Suigetsu" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&width=600&lines=%3E+strawberrymilkshake12;%3E+Fullstack+Developer;%3E+Architect+of+Systems" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8f/8b/9c/8f8b9cd8b0a6a4d5b1a5f8c4b7e0f4a1.gif" width="400" />
+  <img src="https://media.tenor.com/0fWrEw9X1V4AAAAC/aizen-sosuke-aizen.gif" width="400" />
 </p>
 
 ---
