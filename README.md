@@ -1,24 +1,28 @@
-<h1 align="center">🍓 Strawberry Milkshake</h1>
-<h3 align="center">12/10 Sweetness Level • Code Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=00FF41&center=true&width=600&lines=%3E+Initializing+System...;%3E+User:+strawberrymilkshake12;%3E+Access:+Granted;%3E+Ready+for+Mission.;%3E+Welcome+to+My+Realm." />
+</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=500&lines=Strawberry+Milkshake+%F0%9F%8D%93;Just+a+Guy+Who+Codes+%26+Chills;Bukan+Developer+Alay!;Frontend+%7C+Backend+%7C+Nyawer;Let's+Build+Something+Cool" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=statuspage&logoColor=00FF41&color=0a0a0a" />
+  <img src="https://img.shields.io/badge/SYSTEM-SECURE-00FF41?style=for-the-badge&logo=linux&logoColor=00FF41&color=0a0a0a" />
+  <img src="https://img.shields.io/badge/MODE-NIGHT-00FF41?style=for-the-badge&logo=darkreader&logoColor=00FF41&color=0a0a0a" />
 </p>
 
 ---
 
-## 🧁 About Me
-
-```yaml
-name: Strawberry Milkshake
-age: 12 (in coding years) 🎂
-mood: Always sweet & ready to code ✨
-hobbies:
-  - Building web apps
-  - Sipping milkshakes
-  - Writing clean code
-  - Contributing to open source
-currently_learning: 
-  - JavaScript Frameworks
-  - Cloud Computing
-  - UI/UX Design
+```ascii
+┌─────────────────────────────────────────────────────────┐
+│  ███████╗████████╗██████╗  █████╗ ██╗    ██╗           │
+│  ██╔════╝╚══██╔══╝██╔══██╗██╔══██╗██║    ██║           │
+│  ███████╗   ██║   ██████╔╝███████║██║ █╗ ██║           │
+│  ╚════██║   ██║   ██╔══██╗██╔══██║██║███╗██║           │
+│  ███████║   ██║   ██║  ██║██║  ██║╚███╔███╔╝           │
+│  ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝            │
+│                                                         │
+│  ███╗   ███╗██╗██╗  ██╗███████╗███████╗██╗  ██╗       │
+│  ████╗ ████║██║██║  ██║██╔════╝██╔════╝██║  ██║       │
+│  ██╔████╔██║██║███████║███████╗███████╗███████║       │
+│  ██║╚██╔╝██║██║██╔══██║╚════██║╚════██║██╔══██║       │
+│  ██║ ╚═╝ ██║██║██║  ██║███████║███████║██║  ██║       │
+│  ╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝       │
+└─────────────────────────────────────────────────────────┘
