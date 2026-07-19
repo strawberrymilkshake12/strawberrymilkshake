@@ -14,4 +14,4 @@
 ```bash
 > strawberrymilkshake12
 > fullstack engineer
-> 0x00FF41 is my color
+> i love milf
