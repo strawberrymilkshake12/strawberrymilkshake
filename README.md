@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/0fWrEw9X1V4AAAAC/aizen-sosuke-aizen.gif" width="400" />
+  <img src="https://c.tenor.com/Mnct3fmGikYAAAAd/tenor.gif" width="400" />
 </p>
 
 ---
